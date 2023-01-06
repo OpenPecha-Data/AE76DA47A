@@ -1,0 +1,30 @@
+segment_sources:
+  I622AF2A8:
+    type: origin_type
+    relation: translation
+    base: 7B81
+    lang: en
+  ID1DDF9AD:
+    type: origin_type
+    relation: translation
+    base: '4073'
+    lang: bo
+segment_pairs:
+  7e1c7cac11ee408393b5b437e6cc0446:
+    I622AF2A8: 7def158bc4464f20ba0483a4df1b73aa
+    ID1DDF9AD: 34c84e5ecc5a4f48aff18813efa61820
+  c1e7111b66ad4e4ca96ed578f36e781e:
+    I622AF2A8: fdf043962ece4ca484276b7c711e54b9
+    ID1DDF9AD: 939283af806b43008d31acb3530acd39
+  9a03148fccda4cee9054672a7134306d:
+    I622AF2A8: 9aecffe471044086a3d3bab62252a6eb
+    ID1DDF9AD: c693ccea9e7842ca9f6a2966bd15f5ae
+  414e8dcdd4f44f1a87df4290fb6dca74:
+    I622AF2A8: 4ec3e4747c4c40f38b1172e52788cce1
+    ID1DDF9AD: 2c70787a31144f6390b3a080f492c018
+  ceb21ca1e06944c8a7ad59c0be387cee:
+    I622AF2A8: 362f532928e3477893f6d6516e01699d
+    ID1DDF9AD: 526c11853b0c44a9acfe14fcc740cb7e
+  534d6faa739c4b39af51af55b5b08008:
+    I622AF2A8: 85e99a68389c4181a310f3b26e239153
+    ID1DDF9AD: 26134cf81cf744a580537e705e68adb4
